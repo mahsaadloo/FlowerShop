@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+@import url('./_reset.css');
+@import url('./_utilities.css');
+@import url('_components.css');
+
+.main-nav-menu{
+    padding: 3.8rem 0;
+}
+
+.main-nav-menu .active a {
+    color: #f50;
+    text-decoration: underline;
+}
+
+.main-hero-section{
+    margin-top: 7rem;
+}
+
+.browse{
+    margin-top: 3rem;
+}
+
+.matn{
+    height: .1rem;
+    width: 20%;
+    background-color: #D9D9D9;
+}
+
+.search-box{
+    padding: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}

@@ -1,0 +1,66 @@
+.img-box{
+    border-radius: 1rem;
+    height: 19.2rem;
+    max-width: 18rem;
+    overflow: hidden;
+}
+
+.product-card{
+    width: 100%;
+    padding: 1.8rem;
+    border-radius: .5rem;
+    background-color: white;
+}
+
+.product-card img{
+    height: 23rem;
+    width: 100%;
+    object-fit: cover;
+    border-radius: .8rem;
+}
+
+.product-desc{
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
+
+.btn{
+    margin-top: 5rem;
+    padding: .5rem 2rem;
+    border: none;
+    background: #f50;
+    border-radius: .5rem;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+}
+
+.btn:hover{
+    background-color: rgb(255, 106, 31);
+}
+
+.btn:active{
+    background-color: rgb(204, 68, 0);
+}
+
+.product-post{
+    width: 100%;
+    padding: 1.8rem;
+    border-radius: .5rem;
+    background-color: white;
+}
+
+.product-post img{
+    height: 24rem;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 2rem;
+}
+
+.comment{
+    width: 100%;
+    padding: 2rem 2.9rem;
+    background-color: white;
+}

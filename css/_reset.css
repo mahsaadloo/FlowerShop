@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%
+}
+
+body{
+    font-family: 'Roboto';
+    color: #121212;
+    font-size: 1.6rem;
+    background-color: #f2f2f2;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f50;
+}
+
+a:active {
+    color: rgb(204, 68, 0);
+}
