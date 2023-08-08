@@ -1,3 +1,3 @@
 # Flowershop
 
-In this project I use my utilities and design a flowershop.
+In this project I use my utilities to design a flowershop.
